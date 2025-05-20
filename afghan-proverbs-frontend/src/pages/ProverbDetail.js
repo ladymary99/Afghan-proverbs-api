@@ -1,0 +1,1 @@
+export default function ProverbDetail() { return <div className='container'>Proverb Detail Page</div>; }

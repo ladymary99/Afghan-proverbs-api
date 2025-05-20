@@ -1,0 +1,1 @@
+export default function AddProverb() { return <div className='container'>Add Proverb Page</div>; }

@@ -48,7 +48,7 @@ A beautiful React application that showcases and manages Afghan proverbs and say
    npm start
    ```
 
-The API should now be running on `http://localhost:3000`.
+The API should now be running on `http://localhost:3001`.
 
 ### Frontend Setup
 
